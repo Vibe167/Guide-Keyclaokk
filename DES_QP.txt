@@ -1,2 +1,0 @@
-Question 1: Explain DES.
-Question 2: Explain S-Boxes.
