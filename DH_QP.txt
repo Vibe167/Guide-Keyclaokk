@@ -1,0 +1,8 @@
+Client Private Key a = 3
+Client Public Key A = 10
+Received Server Public Key B = 5
+Shared Secret Key = 10
+
+QUESTION PAPER:
+
+null
